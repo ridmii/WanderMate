@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors -->
+    <color name="colorPrimary">#BB86FC</color>        <!-- Purple -->
+    <color name="colorPrimaryDark">#3700B3</color>    <!-- Darker purple -->
+    <color name="colorAccent">#03DAC6</color>         <!-- Teal -->
+    <color name="colorBackground">#121212</color>     <!-- Dark background -->
+    <color name="textColor">#FFFFFF</color>           <!-- White text -->
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color> <!-- Replace with your preferred color -->
+    <color name="colorHint">#9E9E9E</color> <!-- Change to your preferred hint color -->
+
+</resources>

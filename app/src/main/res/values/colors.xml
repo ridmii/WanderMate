@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme colors -->
+    <color name="textColor">#000000</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color> <!-- Replace with your preferred color -->
+    <color name="colorHint">#9E9E9E</color> <!-- Change to your preferred hint color -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorBackground">#FAFAFA</color>
+
+    <color name="darkNavItemColor">#FFFFFF</color>
+    <color name="lightNavItemColor">#000000</color>
+
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Missing colors that are causing errors -->
+    <color name="gray_700">#616161</color>
+    <color name="gray_500">#9E9E9E</color>
+
+    <color name="darkNavBackground">#1E1E1E</color> <!-- Dark mode navbar -->
+    <color name="lightNavBackground">#FFFFFF</color> <!-- Light mode navbar -->
+</resources>

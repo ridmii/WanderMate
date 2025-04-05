@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme_WanderMate_Dark">themes.xml</style>
+
+    <style name="Theme_App_Dark">themes.xml</style>
+</resources>

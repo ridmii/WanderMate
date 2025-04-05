@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WanderMate</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="weather_api_key">4f4c9b3b476c82d8647a3a01568226a5</string>
+    <string name="google_places_api_key">AIzaSyBsNH5groOEfBXMuaniFfcrHeq2-OvF4Og</string>
+
+    <string name="about_this_place">About this place</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="save_place">Save Place</string>
+    <string name="place_image_desc">Image of the place</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</string>
+
+</resources>
